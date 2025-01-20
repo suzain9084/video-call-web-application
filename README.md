@@ -1,2 +1,8 @@
-# video-call-web-application
-A real-time video call app using WebRTC and Socket.io for peer-to-peer connections. Features include room-based video calls, mute/unmute functionality, and a user-friendly interface. Built with React, Node.js, and Express. Future updates: screen sharing, group calls, and chat functionality.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
